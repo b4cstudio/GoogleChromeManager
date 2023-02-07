@@ -10,4 +10,4 @@ myChrome Manager support almost all of Google Chrome features, includes:
     <li>Allow global settings, includes proxy, extensions, urls</li>
 </ul>
 
-Webites: https://9tofix.com
+Website: https://9tofix.com
